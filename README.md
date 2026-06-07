@@ -61,5 +61,4 @@ I am currently improving my portfolio around two lines of work:
 ## Contact
 
 - GitHub: [github.com/aqwddda](https://github.com/aqwddda)
-- Email: add your email here
-- Resume / Portfolio: add your link here
+- Email: dzy.ivan.work@outlook.com
